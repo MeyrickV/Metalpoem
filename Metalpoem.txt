@@ -6,3 +6,5 @@ Gold alloy
 Siler alloy
 Ceramics
 Glass
+Magnesium
+
