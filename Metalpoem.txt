@@ -2,3 +2,5 @@ Elements that are metals
 Gold
 Silver
 Iron
+Gold alloy
+Siler alloy
