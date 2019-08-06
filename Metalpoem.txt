@@ -4,3 +4,5 @@ Silver
 Iron
 Gold alloy
 Siler alloy
+Ceramics
+Glass
