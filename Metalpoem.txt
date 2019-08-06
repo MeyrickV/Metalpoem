@@ -4,3 +4,4 @@ Silver
 Iron
 Gold alloy
 Siler alloy
+Magnesium
